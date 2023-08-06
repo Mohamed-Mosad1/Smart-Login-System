@@ -1,0 +1,25 @@
+:root {
+    --mainColor: #25353f;
+}
+body {
+    background: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+}
+nav {
+    background-color: var(--mainColor);
+}
+nav .container a {
+    color: white;
+}
+.navbar-brand:focus, .navbar-brand:hover {
+    color: white;
+}
+.group {
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+h1 {
+    color: #17a2b8;
+}
+.background {
+    background-color: var(--mainColor);
+}

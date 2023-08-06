@@ -1,0 +1,40 @@
+input::placeholder {
+  color: rgb(182, 182, 182) !important;
+  opacity: 1;
+}
+body {
+  background-color: #25353f;
+}
+.bg {
+  box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+h1 {
+  color: #17a2b8;
+  font-size: 2.5rem;
+}
+.content-box input {
+  background-color: transparent !important;
+  color: #fff !important;
+  box-shadow: none !important;
+}
+.content-box .btn:hover {
+  color: #fff;
+}
+.content-box p {
+  color: #fff;
+}
+.content-box p a {
+  color: #fff;
+  text-decoration: none;
+}
+.content-box p a:hover {
+  text-decoration: underline;
+}
+.content-box .btn-outline-info:hover {
+  color: #fff;
+  background-color: #17a2b8;
+  border-color: #17a2b8;
+}
+p {
+  font-size: 18px;
+}
